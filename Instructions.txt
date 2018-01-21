@@ -1,0 +1,4 @@
+After downloading, Open a GBA Emulator (Visual Boy Advance preferred)
+Find an option to open ROM
+Find Rom and load
+Play :)
