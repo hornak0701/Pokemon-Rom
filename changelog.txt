@@ -4,3 +4,8 @@ Edited beginning town slightly as test
 1/23/2018 21:55
 Edited Coldrain Village more to reflect flooding
 Deleting some beginning game scripts so you can immediately get the starter pokemon for testing purposes.
+###############################
+1/25/2016 22:00
+Made final map design of Coldrain Village. 
+Also deleted a useless person script
+Added a new person script-person functions but script does not. Needs fixed
