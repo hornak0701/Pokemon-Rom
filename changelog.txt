@@ -4,3 +4,17 @@ Edited beginning town slightly as test
 1/23/2018 21:55
 Edited Coldrain Village more to reflect flooding
 Deleting some beginning game scripts so you can immediately get the starter pokemon for testing purposes.
+###############################
+1/25/2018 22:00
+Made final map design of Coldrain Village. 
+Also deleted a useless person script
+Added a new person script-person functions but script does not. Needs fixed
+################################
+1/30/2018
+Complete rework!
+Stwitched to using Emerald as a base for scripts to work
+Got test script to finally work
+Start re-making COLDRAIN VILLAGE-will finish in next commit
+Changed starters to all 3-stage evolution Pokemon- Lotad, Spheal, Azurril
+##################################
+
